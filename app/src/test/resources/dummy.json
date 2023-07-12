@@ -1,0 +1,16 @@
+[
+  {
+    "albumId" : 1,
+    "id" : 1,
+    "title" : "This is a test title",
+    "url" : "www.goog.com'",
+    "thumbnailUrl" : "www.google.com/"
+  },
+  {
+    "albumId" : 1,
+    "id" : 2,
+    "title" : "This is another test title",
+    "url" : "www.oog.com'",
+    "thumbnailUrl" : "www.oogle.com/"
+  }
+]
